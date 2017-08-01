@@ -10,6 +10,8 @@
 
 * [🦄 angular2-starter](https://github.com/ragmha/ng2-starter)
 
+* [:bowtie: dev-environment](https://github.com/ragmha/dev-environment)
+
 
 ## License
 [MIT](./license) © [Raghib Hasan](http://raghibm.com/)
