@@ -8,6 +8,8 @@
 
 * [🦄 redux-starter](https://github.com/ragmha/redux-starter)
 
+* [🦄 redux-saga-starter](https://github.com/ragmha/redux-saga-starter)
+
 * [🦄 angular2-starter](https://github.com/ragmha/ng2-starter)
 
 * [:bowtie: dev-environment](https://github.com/ragmha/dev-environment)
